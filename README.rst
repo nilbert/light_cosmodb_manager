@@ -1,1 +1,1 @@
-* light cosmodb manager
+# light cosmodb manager
